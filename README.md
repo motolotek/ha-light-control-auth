@@ -1,0 +1,1 @@
+# ha-light-control-auth
